@@ -195,7 +195,7 @@ header .menu ul li {
 }
 
 .me_foto {
-    background-image: url('img/my_face2.jpg');
+    background-image: url('../img/my_face2.jpg');
 }
 
 .me a {
@@ -372,7 +372,7 @@ a.love21:hover {
 }
 
 a.love23 {
-    background-image: url('/img/bez2.jpg');
+    background-image: url('../img/bez2.jpg');
 
 }
 
