@@ -195,7 +195,7 @@ header .menu ul li {
 }
 
 .me_foto {
-    background-image: url('../img/my_face2.jpg');
+    background-image: url('img/my_face2.jpg');
 }
 
 .me a {
@@ -275,7 +275,7 @@ a.button2 {
 
 
 a.img1:hover {
-    background-image: url('/img/img2.jpg');
+    background-image: url('img/img2.jpg');
 }
 
 h1,
@@ -313,26 +313,26 @@ h2 {
 
 /* books*/
 a.cama {
-    background-image: url('/img/cama6.jpg');
+    background-image: url('../img/cama6.jpg');
 
 }
 
 a.cama:hover {
-    background-image: url('/img/cama5.jpg');
+    background-image: url('../img/cama5.jpg');
 
 }
 
 a.love22 {
-    background-image: url('/img/ladyavto2.jpg');
+    background-image: url('../img/ladyavto2.jpg');
 
 }
 
 a.love22:hover {
-    background-image: url('/img/sosni2.jpg');
+    background-image: url('../img/sosni2.jpg');
 }
 
 a.love21 {
-    background-image: url('/img/hands.jpg');
+    background-image: url('../img/hands.jpg');
 }
 
 a.love21,
@@ -355,20 +355,20 @@ a.betrayal,
 }
 
 a.betrayal {
-    background-image: url('/img/betrayal2.jpg');
+    background-image: url('../img/betrayal2.jpg');
 }
 
 a.vopreki {
-    background-image: url('/img/vopreki3.jpg');
+    background-image: url('../img/vopreki3.jpg');
 }
 
 a.taina {
-    background-image: url('/img/taina2.jpg');
+    background-image: url('../img/taina2.jpg');
 
 }
 
 a.love21:hover {
-    background-image: url('/img/love5.jpg');
+    background-image: url('../img/love5.jpg');
 }
 
 a.love23 {
@@ -377,21 +377,21 @@ a.love23 {
 }
 
 a.love23:hover {
-    background-image: url('/img/love2323.jpg');
+    background-image: url('../img/love2323.jpg');
 }
 
 .last {
-    background-image: url('/img/man.jpg');
+    background-image: url('../img/man.jpg');
 
 }
 
 .remind {
-    background-image: url('/img/reminder_from_past2.jpg');
+    background-image: url('../img/reminder_from_past2.jpg');
 
 }
 
 a.ican {
-    background-image: url('/img/ican3.jpg');
+    background-image: url('../img/ican3.jpg');
 
 }
 
@@ -400,30 +400,30 @@ a.ican {
 }
 
 a.ican:hover {
-    background-image: url('/img/ican4.jpg');
+    background-image: url('../img/ican4.jpg');
 }
 
 a.agency:hover {
-    background-image: url('/img/home7.jpg');
+    background-image: url('../img/home7.jpg');
 }
 
 a.agency {
-    background-image: url('/img/ag.jpg');
+    background-image: url('../img/ag.jpg');
 
 }
 
 a.ican:hover {
-    background-image: url('/img/ican4.jpg');
+    background-image: url('../img/ican4.jpg');
 }
 
 a.zoya10 {
-    background-image: url('/img/zoya5.jpg');
+    background-image: url('../img/zoya5.jpg');
 
 }
 
 
 a.zoya10:hover {
-    background-image: url('/img/zoya7.jpg');
+    background-image: url('../img/zoya7.jpg');
 }
 
 
