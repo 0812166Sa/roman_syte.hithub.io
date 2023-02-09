@@ -531,9 +531,15 @@ a.zoya10:hover {
         min-height: 192px;
     }
 
+    .block4,
+    #block6,
+    #block7,
+    #block9 {
+        width: auto;
+    }
+
+
 }
-
-
 
 .block1 {
     width: 100%;
@@ -568,8 +574,6 @@ a.zoya10:hover {
 }
 
 
-
-.block6,
 .block7,
 .block9,
 .block10 {
